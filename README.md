@@ -1,6 +1,8 @@
 Agent Rheumio: Your Personal RA Care Buddy
 ​Agent Rheumio is an intelligent, empathetic AI companion designed specifically for individuals living with Rheumatoid Arthritis (RA). Unlike generic health bots, Rheumio understands the unpredictable nature of RA—adapting its advice on diet, exercise, and mental health based on the user's real-time pain levels and energy states.
 ​
+
+
 🌟 The Problem
 ​Living with RA means dealing with unpredictable pain, severe fatigue, and sudden flare-ups. Traditional health advice is often static and fails to account for "good days" vs. "bad days."
 ​Rheumio solves this by:
@@ -43,6 +45,8 @@ Agent Rheumio: Your Personal RA Care Buddy
 ​Predictive Modeling: Using ML to forecast flare probabilities 48 hours in advance.
 ​Mobile Deployment: Transitioning from a notebook prototype to a cross-platform mobile app.
 ​
+
+
 🛠️ Setup & Usage
 ​Clone this repository.
 ​Ensure you have a Google Gemini API Key.
