@@ -70,5 +70,7 @@ state to Red.
 
 ​Clone this repository.
 ​Ensure you have a Google Gemini API Key.
+
 ​Install dependencies: pip install -q -U google-generativeai
+
 ​Run the notebook cells to initialize the Rheumio agent.
