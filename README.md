@@ -4,14 +4,14 @@ Agent Rheumio: Your Personal RA Care Buddy
 
 
 🌟 The Problem
-​Living with RA means dealing with unpredictable pain, severe fatigue, and sudden flare-ups. Traditional health advice is often static and fails to account for "good days" vs. "bad days."
+​Living   with RA means dealing with unpredictable pain, severe fatigue, and sudden flare-ups. Traditional health advice is often static and fails to account for "good days" vs. "bad days."
 ​Rheumio solves this by:
 ​Providing instant, personalized guidance.
 ​Remembering patient history (pain scores and energy levels).
 ​Filtering advice through strict safety guardrails (e.g., preventing heavy exercise during high-fatigue "Red" days).
 
 ​
-🧠 System Architecture
+🧠 System  Architecture
 ​Rheumio is built on a powerful Agentic Loop centered around the Google Gemini API. It moves beyond simple chat by utilizing Function Calling to interact with custom logic and state management.
 ​Technical Breakdown:
 ​The Brain: Powered by Gemini 2.5 Flash for high-speed reasoning and robust function calling.
